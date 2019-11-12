@@ -21,7 +21,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   people = [
     [ENNET_HOUSE],
-    ENFIELD_TENNIS_ACADEMY]
+    [ENFIELD_TENNIS_ACADEMY]
     ]
 end
 
