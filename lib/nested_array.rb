@@ -28,7 +28,7 @@ def array_literal_matrix
   # alphabetically by the first character.
   
   alphabet_nested_array = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
-  alphabet_nested_array.sort!
+ sorted_array = alphabet_nested_array.sort!
 end
 
 def matrix_lookup(matrix, row, column)
